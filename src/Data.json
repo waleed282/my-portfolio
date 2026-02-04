@@ -23,7 +23,7 @@
       "imgAuthor": "/images/section/hero-img.jpg",
       "bgImgLink": "/images/background/hero-bg-2.jpg",
       "title": "Hi, I am <span>Waleed Akhtar</span>",
-      "text": "I am a frontend web developer. I can provide clean code and pixel perfect design. <br>I also make website more & more interactive with web animations."
+      "text": "Professional Frontend Developer specializing in high-performance, user-centric web applications.<br> I transform complex UI/UX designs into scalable, clean-coded digital experiences."
     }
   },
   "aboutData": {
@@ -105,53 +105,46 @@
   },
   "skillData": {
     "title": "Core Frontend Expertise",
-    "text": "My expertise sits at the intersection of design fidelity and engineering rigor. I specialize in crafting elegant, component-driven solutions that honor the designer's vision while prioritizing performance and long-term maintainability. I ensure every pixel and every line of code contributes to a superior, inclusive user experience.",
+    "text": "As a dedicated Frontend Developer with over a year of professional experience, I specialize in crafting responsive, user-centric web applications that balance technical precision with creative design. My expertise lies in building seamless digital experiences using a modern tech stack, including HTML, CSS, JavaScript and React.js, alongside styling frameworks like Tailwind and Bootstrap. From my work at RYZE360 and DOT Pvt Ltd, I have a proven track record of transforming complex UI/UX mockups into functional, high-performance components while maintaining clean, scalable code. I am particularly focused on optimizing website performance and implementing SEO best practices to ensure every application I build is both efficient and accessible to a wide audience.",
     "skills": [
       {
         "title": "HTML",
-        "progress": "90%",
         "effect": "fade-up",
         "duration": "500",
         "delay": "200"
       },
       {
         "title": "CSS",
-        "progress": "85%",
         "effect": "fade-up",
         "duration": "500",
         "delay": "300"
       },
       {
         "title": "JavaScript",
-        "progress": "60%",
         "effect": "fade-up",
         "duration": "500",
         "delay": "400"
       },
       {
         "title": "React",
-        "progress": "85%",
         "effect": "fade-up",
         "duration": "500",
         "delay": "500"
       },
       {
         "title": "Bootstrap",
-        "progress": "80%",
         "effect": "fade-up",
         "duration": "500",
         "delay": "600"
       },
       {
         "title": "Tailwind",
-        "progress": "90%",
         "effect": "fade-up",
         "duration": "500",
         "delay": "700"
       },
-       {
+      {
         "title": "Vue",
-        "progress": "80%",
         "effect": "fade-up",
         "duration": "500",
         "delay": "600"
@@ -161,211 +154,109 @@
   "portfolioData": {
     "portfolioItems": [
       {
-        "imgLink": "./images/portfolio/portfolio1.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio1_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
+        "imgLink": "./images/portfolio/project-1.png",
+        "imgLinkLg": "./images/portfolio/project-1.png",
         "effect": "fade-up",
         "duration": "500",
         "delay": "200"
       },
       {
-        "imgLink": "./images/portfolio/portfolio2.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio2_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
+        "imgLink": "./images/portfolio/project-2.png",
+        "imgLinkLg": "./images/portfolio/project-2.png",
         "effect": "fade-up",
         "duration": "500",
         "delay": "300"
       },
       {
-        "imgLink": "./images/portfolio/portfolio3.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio3_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
+        "imgLink": "./images/portfolio/project-3.png",
+        "imgLinkLg": "./images/portfolio/project-3.png",
         "effect": "fade-up",
         "duration": "500",
         "delay": "400"
       },
       {
-        "imgLink": "./images/portfolio/portfolio4.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio4_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
+        "imgLink": "./images/portfolio/project-4.png",
+        "imgLinkLg": "./images/portfolio/project-4.png",
         "effect": "fade-up",
         "duration": "500",
         "delay": "500"
       },
       {
-        "imgLink": "./images/portfolio/portfolio5.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio5_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
+        "imgLink": "./images/portfolio/project-5.png",
+        "imgLinkLg": "./images/portfolio/project-5.png",
         "effect": "fade-up",
         "duration": "500",
         "delay": "600"
       },
       {
-        "imgLink": "./images/portfolio/portfolio6.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio6_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
+        "imgLink": "./images/portfolio/project-6.png",
+        "imgLinkLg": "./images/portfolio/project-6.png",
         "effect": "fade-up",
         "duration": "500",
         "delay": "700"
       },
       {
-        "imgLink": "./images/portfolio/portfolio1.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio1_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
+        "imgLink": "./images/portfolio/project-7.png",
+        "imgLinkLg": "./images/portfolio/project-7.png",
         "effect": "fade-up",
         "duration": "500",
         "delay": "200"
       },
       {
-        "imgLink": "./images/portfolio/portfolio2.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio2_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
+        "imgLink": "./images/portfolio/project-8.png",
+        "imgLinkLg": "./images/portfolio/project-8.png",
         "effect": "fade-up",
         "duration": "500",
         "delay": "300"
       },
       {
-        "imgLink": "./images/portfolio/portfolio3.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio3_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
+        "imgLink": "./images/portfolio/project-9.png",
+        "imgLinkLg": "./images/portfolio/project-9.png",
         "effect": "fade-up",
         "duration": "500",
         "delay": "400"
       },
       {
-        "imgLink": "./images/portfolio/portfolio4.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio4_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
+        "imgLink": "./images/portfolio/project-10.png",
+        "imgLinkLg": "./images/portfolio/project-10.png",
         "effect": "fade-up",
         "duration": "500",
         "delay": "500"
       },
       {
-        "imgLink": "./images/portfolio/portfolio5.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio5_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
+        "imgLink": "./images/portfolio/project-11.png",
+        "imgLinkLg": "./images/portfolio/project-11.png",
         "effect": "fade-up",
         "duration": "500",
         "delay": "600"
       },
       {
-        "imgLink": "./images/portfolio/portfolio6.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio6_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
+        "imgLink": "./images/portfolio/project-12.jpg",
+        "imgLinkLg": "./images/portfolio/project-12.jpg",
         "effect": "fade-up",
         "duration": "500",
         "delay": "700"
       },
       {
-        "imgLink": "./images/portfolio/portfolio1.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio1_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
+        "imgLink": "./images/portfolio/project-13.jpg",
+        "imgLinkLg": "./images/portfolio/project-13.jpg",
         "effect": "fade-up",
         "duration": "500",
         "delay": "200"
       },
       {
-        "imgLink": "./images/portfolio/portfolio2.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio2_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
+        "imgLink": "./images/portfolio/project-14.jpg",
+        "imgLinkLg": "./images/portfolio/project-14.jpg",
         "effect": "fade-up",
         "duration": "500",
         "delay": "300"
       },
       {
-        "imgLink": "./images/portfolio/portfolio3.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio3_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
+        "imgLink": "./images/portfolio/project-15.jpg",
+        "imgLinkLg": "./images/portfolio/project-15.jpg",
         "effect": "fade-up",
         "duration": "500",
         "delay": "400"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio4.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio4_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "500"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio5.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio5_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "600"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio6.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio6_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "700"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio1.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio1_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "200"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio2.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio2_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "300"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio3.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio3_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "400"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio4.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio4_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "500"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio5.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio5_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "600"
       }
     ]
   },
@@ -507,72 +398,62 @@
     "experienceTitle": "Experience",
     "experience": [
       {
-        "title": "Senior UX/UI Designer",
-        "duration": "Jan 2020 - Present",
-        "subTitle": "Bergnaum, Hills and Howe",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+        "title": "RYZE360",
+        "duration": "Jan 2025 - Present",
+        "subTitle": "Frontend Developer",
+        "text": "At RYZE360, I build responsive, user-friendly web interfaces and collaborate closely with designers and backend developers to deliver clean, accessible UI components. I follow best coding practices, participate in code reviews, and use Git with agile workflows to ensure timely delivery. I also focus on performance optimization and troubleshooting to create smooth, efficient user experiences."
       },
       {
-        "title": "Product Designer",
-        "duration": "Jan 2016 - December 2019",
-        "subTitle": "Langosh, Sipes and Raynor",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+        "title": "DOT PVT LTD",
+        "duration": "Sep 2024 - Dec 2024",
+        "subTitle": "Frontend Developer Internship",
+        "text": "During my internship at DOT Pvt Ltd, I contributed to building responsive, cross-browser compatible websites using HTML, CSS, and JavaScript. I collaborated closely with UI/UX designers to transform mockups into functional and visually appealing  web pages. The experience allowed me to focus on writing clean, maintainable code while optimizing website performance,giving me hands-on exposure to real-world frontend development workflows and team collaboration."
       },
       {
-        "title": "UI/UX Designer",
-        "duration": "Jan 2014 - December 2015",
-        "subTitle": "Strosin, Maggio and Homenick",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+        "title": "Call Us Rad",
+        "duration": "Feb 2024 - Apr 2024",
+        "subTitle": "Data Analyst Internship",
+        "text": "Contributed to data visualization efforts, creating informative and visually appealing charts, graphs, and dashboards to communicate findings effectively."
       }
     ],
     "educationTitle": "Education",
     "education": [
       {
-        "title": "Master of Computer Science",
-        "duration": "2015 - 2016",
-        "subTitle": "University of XYZ",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+        "title": "Bachelors in Computer Science",
+        "duration": "2022 - 2026",
+        "subTitle": "Iqra University"
       },
       {
-        "title": "Bachelor of Computer Science",
-        "duration": "2010 - 2014",
-        "subTitle": "University of ABC",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+        "title": "Interdemediate in Pre-Engineering",
+        "duration": "2020 - 2021",
+        "subTitle": "Government Comprehensive Boys College"
       },
       {
-        "title": "Diploma in Computer Science",
-        "duration": "2006 - 2010",
-        "subTitle": "XYZ Institution",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+        "title": "Matriculation in Computer Science",
+        "subTitle": "Mother Montessori Cambrige School"
       }
     ]
   },
   "contactData": {
     "formTitle": "Just say Hello",
     "title": "Contact Info",
-    "subTitle": "Visite my social profile and get connected",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla tincidunt id faucibus sed suscipit feugiat."
+    "subTitle": "Visite my social profile and get connected"
   },
   "socialData": [
     {
-      "icon": "dribbble",
-      "title": "Dribbble",
-      "link": "/"
+      "icon": "github",
+      "title": "GitHub",
+      "link": "https://github.com/waleed282"
     },
     {
-      "icon": "behance",
-      "title": "Behance",
-      "link": "/"
-    },
-    {
-      "icon": "twitter",
-      "title": "Twitter",
+      "icon": "facebook-f",
+      "title": "Facebook",
       "link": "/"
     },
     {
       "icon": "linkedin",
       "title": "LinkedIn",
-      "link": "/"
+      "link": "https://www.linkedin.com/in/waleed-akhtar-719597261/"
     }
   ],
   "socialData2": [
@@ -581,12 +462,12 @@
       "link": "/facebook"
     },
     {
-      "icon": "twitter",
-      "link": "/twitter"
+      "icon": "linkedin",
+      "link": "https://www.linkedin.com/in/waleed-akhtar-719597261/"
     },
     {
       "icon": "github",
-      "link": "/github"
+      "link": "https://github.com/waleed282"
     }
   ]
 }

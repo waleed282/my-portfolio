@@ -14,7 +14,7 @@ const SocialLinks = ({ data }) => {
       {data.map((item, index) => (
         <Link
           to={item.link}
-          className={index === activeLink ? 'st-social-btn active' : 'st-social-btn'}
+          className={index === activeLink ? 'st-social-btn' : 'st-social-btn'}
           onMouseEnter={() => handleIconHover(index)}
           key={index}
         >

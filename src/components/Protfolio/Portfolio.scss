@@ -99,3 +99,20 @@
 .st-portfolio-btn {
   margin-top: 20px;
 }
+/* Target the image inside your portfolio item */
+// ... existing code ...
+
+  .st-portfolio-img {
+    width: 100%;
+    height: 350px; // Set the fixed height you want for all boxes
+    overflow: hidden; // Ensures nothing spills out
+    display: block;
+
+    img {
+      width: 100%;
+      height: 100%; // Make the image fill the 350px container
+      object-fit: cover; // Crops the image to fill the area without stretching
+      object-position: top; // Shows the top of the website design
+      transition: all 0.4s ease;
+    }
+  }
